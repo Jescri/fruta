@@ -1683,6 +1683,19 @@ body {
     padding-bottom: 2rem;
   }
 }
+.cid-rhSy65CmKz {
+  background: #cccccc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rhSy65CmKz .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rhSy65CmKz .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rhNtFjphyw {
   padding-top: 90px;
   padding-bottom: 90px;
